@@ -1,0 +1,11 @@
+.global-footer{
+
+    background-color: #000;
+    color:#fff;
+    padding:1rem;
+    display: flex;
+}
+
+.global-footer p{
+    margin:auto;
+}
