@@ -1,7 +1,7 @@
 .global-header{
     height: 40vh;
     display: flex;
-    background-color: #00b4d8;
+    background-color: cyan;
     color:#caf0f8;
 }
 .global-header h1{
